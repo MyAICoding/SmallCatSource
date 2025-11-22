@@ -1,0 +1,7 @@
+{
+    "links": [
+        { "title": "小猫vod源", "link": "https://cdn.jsdelivr.net/gh/WangGuibin/ImageBed@main/SmallCatVod/vod.json" },
+        { "title": "小猫js源", "link": "https://cdn.jsdelivr.net/gh/WangGuibin/ImageBed@main/SmallCatVod/cat.json" },
+        { "title": "小猫iptv源", "link": "https://cdn.jsdelivr.net/gh/WangGuibin/ImageBed@main/SmallCatVod/lives.json" }
+    ]
+}
